@@ -1,0 +1,45 @@
+   .attribution {
+       font-size: 11px;
+       text-align: center;
+   }
+
+   .attribution a {
+       color: hsl(228, 45%, 44%);
+   }
+
+   body {
+
+       background: url("images/bg-pattern-top.svg") -120px -200px no-repeat,
+           url("images/bg-pattern-bottom.svg") 120% 30em no-repeat,
+           hsl(185, 75%, 39%);
+       background-size: contain;
+       font-family: 'Kumbh Sans',
+           sans-serif;
+
+   }
+
+   h3 {
+       font-weight: 700;
+   }
+
+   p {
+       color: hsl(0, 0%, 59%);
+   }
+
+   #age {
+       margin-left: -4em;
+       margin-top: 6px;
+   }
+
+   #name {
+       margin-left: 30px;
+   }
+
+   html,
+   body {
+       height: 100%
+   }
+
+   #id-Pic {
+       margin-top: -60px;
+   }
